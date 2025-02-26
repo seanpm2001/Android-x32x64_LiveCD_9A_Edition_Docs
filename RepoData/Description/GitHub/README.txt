@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🤖️📖️ Android x32x64: The documentation source repository of the special Android x32x64 LiveCD for all versions of Android x32 from 0.9 to 9.0
